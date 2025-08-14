@@ -1,12 +1,15 @@
 {
+  
   "data": {
-    "character": {
-      "id": "2",
-      "name": "Morty Smith",
-      "status": "Alive",
-      "species": "Human",
-      "type": "",
-      "gender": "Male"
+    "characters": {
+      "results": [
+        {
+          "id": "21",
+          "name": "Aqua Morty",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/21.jpeg"
+        }
+      ]
     }
   }
 }
